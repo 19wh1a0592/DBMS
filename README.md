@@ -1,2 +1,2 @@
 # DBMS
-It has programs of DBMS lab
+It has the programs of DBMS lab
